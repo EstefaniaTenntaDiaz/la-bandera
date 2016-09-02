@@ -1,0 +1,13 @@
+p {
+	width:180px;
+	height:90px;
+	margin:10px;
+	background-color:yellow;
+	padding-left:8px;
+	padding-top:8px;
+	float: left;
+
+}
+.rojo {
+	background-color:red;
+}
